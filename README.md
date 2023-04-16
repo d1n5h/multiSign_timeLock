@@ -1,2 +1,2 @@
-# multisign-time_lock
-A blockchain contract to 
+# multiSign-timeLock
+"MultiSign-timeLock" is a blockchain-based project that enables secure and efficient multi-party transactions through the use of multi-signature and time-locked contracts. The project uses blockchain technology to establish a tamper-proof ledger of transactions that can be audited and verified by all parties involved. The multi-signature feature ensures that a transaction can only be executed when a predetermined number of parties agree to it, thereby reducing the risk of fraudulent activity. Additionally, the time-lock feature allows for the automation of transactions, enabling them to occur at a specific time or after a predetermined event has occurred. "MultiSign-timeLock" has the potential to streamline complex multi-party transactions in a secure and transparent manner.
